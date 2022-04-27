@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cntyaz
-- 👀 I’m interested in Programming
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on anyone who might want to teach me something :)
 - 📫 You can reach me via cntyaz@gmail.com
