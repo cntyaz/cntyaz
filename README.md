@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cntyaz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Front-end web development
+- 🌱 I’m currently learning Front-end web development / Altogic platforms / Golang
 - 💞️ I’m looking to collaborate on anyone who might want to teach me something :)
 - 📫 You can reach me via cntyaz@gmail.com
 
