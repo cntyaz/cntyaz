@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cntyaz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Software development / Java / Spring 
+- 🌱 I’m currently learning Software development / Java / Spring /Spring boot
 - 💞️ I’m looking to collaborate on anyone who might want to teach me something :)
 - 📫 You can reach me via cntyaz@gmail.com
 
